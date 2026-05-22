@@ -1,5 +1,5 @@
 # vendas-copilot-claude
-Os prompts utilizados para criar um Copiloto de Vendas com IA
+Os prompts utilizados para criar um Copiloto de Vendas com Claude para ser o copiloto,  e generalização para loja de perfumes feita por CHATGPT.
 
 ## Prompt utilizado 
 PROMPT — Assistente de vendas (Loja de perfumes)
